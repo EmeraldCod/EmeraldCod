@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emeraldcod&label=Profile%20views&color=0e75b6&style=flat" alt="emeraldcod" /> </p>
 
-- 🌱 I’m currently learning **open shift**
+- 🌱 I’m currently learning **Golang**
 
-- 🤝 I’m looking for help with **Devops,devsecops,cloud devops**
+- 👯 I’m looking to collaborate on **Devops,devsecops,cloud devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmeraldCod](https://github.com/EmeraldCod)
 
