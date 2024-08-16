@@ -5,17 +5,17 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👯 I’m looking to collaborate on **Devops,devsecops,cloud devops**
+- 👯 I’m looking to collaborate on **Devops,devsecops,cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmeraldCod](https://github.com/EmeraldCod)
 
 - 📝 I have earned the AWS Certified Devops Engineer - Professional certification [https://www.credly.com/go/UmpxEEq9r9P1aSVf7l4CiA](https://www.credly.com/go/UmpxEEq9r9P1aSVf7l4CiA)
 
-- 💬 Ask me about **devops and cloud**
+- 💬 Ask me about **devops and cloud Computing**
 
 - 📫 How to reach me **azayomide0701@gmail.com**
 
-- ⚡ Fun fact **I love trying new things**
+- ⚡ Fun fact **I love learning new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
