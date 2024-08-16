@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Ayomide Azeez </h1>
+<h1 align="center">Hi 👋, I'm AZEEZ AYOMIDE</h1>
 <h3 align="center">A passionate DevSecOps and Cloud Devops Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emeraldcod&label=Profile%20views&color=0e75b6&style=flat" alt="emeraldcod" /> </p>
@@ -8,6 +8,8 @@
 - 👯 I’m looking to collaborate on **Devops,devsecops,cloud devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmeraldCod](https://github.com/EmeraldCod)
+
+- 📝 I have earned the AWS Certified Devops Engineer - Professional certification [https://www.credly.com/go/UmpxEEq9r9P1aSVf7l4CiA](https://www.credly.com/go/UmpxEEq9r9P1aSVf7l4CiA)
 
 - 💬 Ask me about **devops and cloud**
 
