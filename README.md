@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👯 I’m looking to collaborate on **Devops,devsecops,cloud Computing**
+- 👯 I’m looking to collaborate on **Devops,devsecops and cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmeraldCod](https://github.com/EmeraldCod)
 
